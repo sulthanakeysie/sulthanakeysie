@@ -1,7 +1,7 @@
 - 👋 Hi, I’m sulthana
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning react
-- 💞️ I’m working as a freelancer
+- 💞️ I’m working as a MERN developer
 - 📫 How to reach me sulthanakeysi@gmail.com
 
 <!---
